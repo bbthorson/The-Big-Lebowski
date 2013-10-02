@@ -24,7 +24,7 @@ The Dude glances furtively about and then opens a quart of milk. He sticks his n
 #### VOICE-OVER
 > And I'm talkin' about the Dude here-- sometimes there's a man who, wal, he's the man for his time'n place, he fits right in there--and that's the Dude, in Los Angeles.
 
-### CHECKOUT GIRL
+## CHECKOUT GIRL
 
 She waits, arms folded. A small black-and white TV next to her register shows George Bush on the White House lawn with helicopter rotors spinning behind him.
 
